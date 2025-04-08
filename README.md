@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Roshan Thomas/h1>
+<h1 align="center">Hi, I'm Roshan Thomas /h1>
 <h3 align="center">A 3rd year Computer Science and Engineering student</h3>
 
 ---
@@ -48,8 +48,9 @@
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshanthomas582&theme=rogue" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanthomas582&theme=rogue" alt="Contribution Graph" />
 </p>
+
 ---
 
 ### 📫 Connect With Me
