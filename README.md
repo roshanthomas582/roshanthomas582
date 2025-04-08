@@ -48,7 +48,7 @@
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanthomas582&theme=rogue" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/green/roshanthomas582" alt="Roshan Thomas's GitHub chart" />
 </p>
 
 ---
