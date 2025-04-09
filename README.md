@@ -30,10 +30,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshanthomas582&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=roshanthomas582&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanthomas582&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Commits%20This%20Month&query=$.contributions&url=https://github-contributions-api.jogruber.de/v4/roshanthomas582&style=for-the-badge" alt="GitHub Activity" />
 </p>
+
 
 
 ---
